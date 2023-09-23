@@ -1,0 +1,80 @@
+/* ======Підключення вручну======= */
+/* Шрифт № 1 */
+@font-face {
+	font-family: 'Causten';
+	src:
+		url("..//fonts/Causten-Regular.woff2") format("woff2"),
+		url("..//fonts/Causten-Regular.woff") format("woff");
+	wont-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Causten';
+	src:
+		url("..//fonts/Causten-Light.woff2") format("woff2"),
+		url("..//fonts/Causten-Light.woff") format("woff");
+	wont-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Causten';
+	src:
+		url("..//fonts/Causten-Medium.woff2") format("woff2"),
+		url("..//fonts/Causten-Medium.woff") format("woff");
+	wont-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Causten';
+	src:
+		url("..//fonts/Causten-Semi-Bold.woff2") format("woff2"),
+		url("..//fonts/Causten-Semi-Bold.woff") format("woff");
+	wont-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Causten';
+	src:
+		url("..//fonts/Causten-Bold.woff2") format("woff2"),
+		url("..//fonts/Causten-Bold.woff") format("woff");
+	wont-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* ---- */
+
+
+/* ---- */
+
+/* Шрифт № 2 */
+@font-face {
+	font-family: 'CONSOLAI';
+	src:
+		url("..//fonts/CONSOLAI.woff2") format("woff2"),
+		url("..//fonts/CONSOLAI.woff") format("woff");
+	wont-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* ---- */
+
+/* Шрифт № 3 */
+@font-face {
+	font-family: 'MyriadPro-CondIt';
+	src:
+		url("..//fonts/MyriadPro-CondIt.woff2") format("woff2"),
+		url("..//fonts/MyriadPro-CondIt.woff") format("woff");
+	wont-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

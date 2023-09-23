@@ -1,0 +1,144 @@
+/* =====================ШРИТФИ=================== */
+/* ==============Підключення шрифтів============== */
+
+/*Google.fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:regular,500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:regular,600;700&display=swap");
+
+
+
+/* =======Підключення шрифтів вручну======= */
+@import url("fonts.css");
+
+
+/*Скидання стилів*/
+@import url("reset.css");
+
+
+/* ==============Основні Стилі============== */
+
+body {
+	font-family: "CONSOLAI", "sans-serif";
+}
+
+/* --------------------------------------------------------- */
+span {
+	color: blueviolet;
+	font-size: 20px;
+	text-shadow: 5px 0px 2px rgb(177, 177, 177);
+}
+
+header,
+footer {
+	font-family: "MyriadPro-CondIt";
+	font-size: 20px;
+	color: blue;
+}
+
+h1 {
+	text-decoration: underline;
+	color: rgb(2, 92, 21);
+	text-shadow: 5px 0px 2px rgb(177, 177, 177);
+}
+
+h2 {
+	color: blue;
+	font-family: "MyriadPro-CondIt";
+	font-size: 30px;
+	text-shadow: 5px 0px 2px rgb(177, 177, 177);
+}
+
+.block-about h2 {
+	color: rgb(255, 0, 0);
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.block-about-img {
+	text-align: center;
+}
+
+.block-boocks {
+	text-align: center;
+}
+
+.block-boock {
+	color: rgb(15, 224, 43);
+	text-align: left;
+}
+
+.block-popular {
+	text-align: center;
+}
+
+.block-popular-book h3 {
+	font-family: "MyriadPro-Bold";
+	text-align: center;
+	text-transform: capitalize;
+	color: rgb(238, 83, 212);
+	text-transform: uppercase;
+}
+
+.block-popular-book-img {
+	text-align: center;
+}
+
+.block-popular-book-about {
+	text-align: left;
+}
+
+.block-book h3 {
+	color: chocolate;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 25px;
+	font-family: "MyriadPro-Bold";
+	text-shadow: 5px 0px 2px rgb(177, 177, 177);
+}
+
+.block-book-img {
+	text-align: center;
+}
+/* --- */
+
+
+
+
+/* ---block---english---fonts--- */
+
+.block-english h4 {
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Causten';
+	font-weight: 700;
+	font-style: italic;
+	font-size: 30px;
+	color: rgb(72, 69, 72);
+	letter-spacing: 2.5px;
+}
+
+.block-english-tit {
+	font-size: 40px;
+	color: black;
+	font-family: 'Causten';
+	font-weight: 700;
+	line-height: 130%;
+}
+
+.block-english-title {
+	font-family: 'Poppins';
+	font-weight: 600;
+	color: rgb(132, 130, 133);
+	font-size: 20px;
+	line-height: 140%;
+}
+
+.block-english-sub-title {
+	font-family: 'Inter';
+	text-transform: capitalize;
+	font-weight: 700;
+	color: rgb(176, 137, 247);
+	font-size: 16px;
+	line-height: 128%;
+}
