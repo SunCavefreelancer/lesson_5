@@ -99,6 +99,7 @@ h2 {
 .block-book-img {
 	text-align: center;
 }
+
 /* --- */
 
 
@@ -114,31 +115,39 @@ h2 {
 	font-weight: 700;
 	font-style: italic;
 	font-size: 30px;
-	color: rgb(72, 69, 72);
+	color: rgba(72, 69, 72, 0.285);
 	letter-spacing: 2.5px;
 }
 
 .block-english-tit {
-	font-size: 40px;
-	color: black;
+	font-size: 30px;
+	color: #37393F;
 	font-family: 'Causten';
 	font-weight: 700;
-	line-height: 130%;
+	line-height: 127%;
 }
 
 .block-english-title {
-	font-family: 'Poppins';
-	font-weight: 600;
-	color: rgb(132, 130, 133);
-	font-size: 20px;
+	font-family: 'Inter';
+	font-weight: 400;
+	color: #7D7D7D;
+	font-size: 18px;
 	line-height: 140%;
 }
 
 .block-english-sub-title {
 	font-family: 'Inter';
 	text-transform: capitalize;
-	font-weight: 700;
-	color: rgb(176, 137, 247);
-	font-size: 16px;
-	line-height: 128%;
+	font-weight: 600;
+	color: #6B77E5;
+	font-size: 20px;
+	line-height: 127%;
+}
+
+.block-english-sub-sub-title {
+	font-family: 'Inter';
+	font-weight: 400;
+	color: #7D7D7D;
+	font-size: 18px;
+	line-height: 146%;
 }
