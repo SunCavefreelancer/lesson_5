@@ -186,12 +186,3 @@ h2 {
 	font-size: 18px;
 	line-height: 146%;
 }
-
-.block-prodject-li {
-	text-decoration: underline;
-	font-style: italic;
-}
-
-.block-prodject-li span {
-	text-decoration: underline;
-}
