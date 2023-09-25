@@ -2,8 +2,8 @@
 /* ==============Підключення шрифтів============== */
 
 /*Google.fonts*/
-@import url("https://fonts.googleapis.com/css2?family=Inter:regular,500;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:regular,600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:regular,600,700&display=swap");
 
 
 
@@ -157,9 +157,10 @@ h2 {
 /* ---block 6--- */
 .block-prodject-title {
 	font-family: 'Poppins';
-	font-weight: 800;
+	font-weight: 700;
 	font-size: 40px;
 	line-height: 127%;
+	color: #37393F;
 }
 
 .block-prodject-sub-title {
