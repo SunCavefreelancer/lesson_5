@@ -151,3 +151,44 @@ h2 {
 	font-size: 18px;
 	line-height: 146%;
 }
+
+
+
+/* ---block 6--- */
+.block-prodject {
+}
+
+.block-prodject-title {
+	font-family: 'Poppins';
+	font-weight: 800;
+	font-size: 40px;
+	line-height: 127%;
+}
+.block-prodject-sub-title {
+	font-family: 'Inter';
+	font-weight: 400;
+	color: #7D7D7D;
+	font-size: 18px;
+	line-height: 146%;
+}
+.block-prodject-sub-sub-title {
+	font-family: 'Inter';
+	font-weight: 400;
+	color: #7D7D7D;
+	font-size: 18px;
+	line-height: 146%;
+}
+.block-prodject-ul {
+	font-family: 'Inter';
+	font-weight: 500;
+	color: #7D7D7D;
+	font-size: 18px;
+	line-height: 146%;
+}
+.block-prodject-li {
+	text-decoration: underline;
+	font-style: italic;
+}
+.block-prodject-li span {
+	text-decoration: underline;
+}
